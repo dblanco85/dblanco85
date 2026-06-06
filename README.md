@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+:computer: Java Software Developer
+
+### Actividad
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dblanco85/dblanco85)
 <!--
 **dblanco85/dblanco85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
